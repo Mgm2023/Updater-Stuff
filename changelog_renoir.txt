@@ -1,9 +1,0 @@
-====================
-    05-01-2023     
-====================
-
- - Initial Official build.
- - Fixed Status bar lyric (Like Netease Cloud Music)
- - Battery Backup improvements
- - Fixed boot issue on some devices
- - Fixed fastboot flash error
